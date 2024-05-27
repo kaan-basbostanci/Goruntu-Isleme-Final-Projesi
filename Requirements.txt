@@ -1,0 +1,3 @@
+Programın düzgün çalışması için kurulması gereken programlar
+
+1- "C"nin altında yer alan "Program Files" içerisinde "Tesseract-OCR" kurulu olmalıdır(kod, çalışmak için "tesseract.exe" ye ihtiyaç duymaktadır.)
